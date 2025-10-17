@@ -245,7 +245,10 @@ DRIB.HTML
           </div>
         </div>
       </div>
+
 <footer class="bg-secondary text-center text-light py-1">
+  Designed by Srinivas J(25015562)
+  <br>
    CLOTH STORE © 2025 
 </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -256,7 +259,7 @@ DRIB.HTML
 
 ## OUTPUT:
 
-![alt text](<Screenshot (25).png>)
+![alt text](<Screenshot (26).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
