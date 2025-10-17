@@ -42,7 +42,7 @@ DRIB.HTML
 <body class="bg-secondary">
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="#">PINKY WARDROBE</a>
+      <a class="navbar-brand fw-bold" href="#"><i>Dribble</i></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -259,7 +259,7 @@ DRIB.HTML
 
 ## OUTPUT:
 
-![alt text](<Screenshot (26).png>)
+![alt text](<Screenshot (27).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
